@@ -12,7 +12,7 @@ Pick one of the papers in the directory listed in `pdfs.md` and send complete a 
 
 ### Submission
 
-Zip up your repository with solutions and email us them back to us!
+Once completed, email us back your `YourReview.md` and `autoencoder_task.py` files only by responding to the email from which you were invited to complete the task!
 
 
 
